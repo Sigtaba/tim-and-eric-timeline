@@ -1,12 +1,12 @@
-# _Replica of The Outline website_
+# _Tribue website for Tim & Eric_
 
-#### _Practice with Sass,_ _06.08.2017_
+#### _Practice with Sass,_ _06.09.2017_
 
-#### By _**Isabella Abatgis and Rose Sponseller**_
+#### By _**Isabella Abatgis**_
 
 ## Description
 
-A recreation of this webpage's front end: https://www.theoutline.com/ incorporating Sass into our project, as well as Bourbon.
+A website about the comedy duo Tim & Eric.  Includes their bios and a brief timeline of content.
 
 ## Setup/Installation Requirements
 
@@ -17,11 +17,11 @@ A recreation of this webpage's front end: https://www.theoutline.com/ incorporat
 
 OR
 
-*_Open this link: https://sigtaba.github.io/the-outline/ (materialize icons may not appear)
+*_Open this link: https://sigtaba.github.io/tribute-page/
 
 ## Support and contact details
 
-_Add later_
+_No Known Bugs_
 
 ## Technologies Used
 
@@ -43,4 +43,4 @@ _Bourbon_
 
 *MIT*
 
-Copyright (c) 2017 **_Isabella Abatgis and Rose Sponseller_**
+Copyright (c) 2017 **_Isabella Abatgis_**
