@@ -32,28 +32,10 @@
   }
 }
 
-@mixin headline {
-  font-family: 'Playfair Display', serif;
-  font-weight: 900;
-  font-size: 100px;
-  line-height: 90px;
-}
-
-@mixin headline-big-boy {
-  font-size: 60px;
-  line-height: 60px;
-}
-
-@mixin date {
-  font-size: 12px;
-  font-family: 'roboto', sans-serif;
-  text-align: left;
-  color: $white;
-}
-
-@mixin hover-effect {
-  color: $featured-color;
-  transition: 0.3s ease;
-  text-decoration: none;
-  cursor: pointer;
+@mixin subhead {
+  font-style: italic;
+  font-size: 90px;
+  text-align: center;
+  font-family: 'Grand Hotel', cursive;
+  text-shadow: 4px 4px 2px white;
 }
