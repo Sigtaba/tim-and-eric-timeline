@@ -21,19 +21,6 @@ html {
   box-sizing: inherit;
 }
 
-/**
- * Basic styles for links
- */
-a {
-  color: $brand-color;
-  text-decoration: none;
-
-  @include on-event {
-    color: $text-color;
-    text-decoration: underline;
-  }
-}
-
 body {
   @include linear-gradient(red, orange);
   @include linear-gradient(to top, red, orange);

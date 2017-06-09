@@ -419,16 +419,6 @@ html {
 *::after {
   box-sizing: inherit; }
 
-/**
- * Basic styles for links
- */
-a {
-  color: #e50050;
-  text-decoration: none; }
-  a:hover, a:active, a:focus {
-    color: #222222;
-    text-decoration: underline; }
-
 body {
   background-color: red;
   background-image: -webkit-linear-gradient(red, orange);
