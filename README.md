@@ -1,4 +1,4 @@
-# _Tribue website for Tim & Eric_
+# _Tribute website for Tim & Eric_
 
 #### _Practice with Sass,_ _06.09.2017_
 
@@ -17,7 +17,7 @@ A website about the comedy duo Tim & Eric.  Includes their bios and a brief time
 
 OR
 
-*_Open this link: https://sigtaba.github.io/tribute-page/
+* _Open this link: https://sigtaba.github.io/tribute-page/
 
 ## Support and contact details
 
