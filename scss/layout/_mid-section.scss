@@ -1,0 +1,28 @@
+.row .col {
+  width: 100vw;
+  padding: 0px;
+}
+
+.mid-section {
+  width: 100vw;
+}
+
+.vid-row {
+  height: 50vh;
+  margin-top: -90px;
+}
+
+video#bgvid {
+    // position: fixed;
+    // top: 50%;
+    // left: 50%;
+    width: 100%;
+    height: auto;
+    z-index: -100;
+    // -ms-transform: translateX(-50%) translateY(-50%);
+    // -moz-transform: translateX(-50%) translateY(-50%);
+    // -webkit-transform: translateX(-50%) translateY(-50%);
+    // transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    // background-size: cover;
+}
