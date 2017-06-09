@@ -35,5 +35,8 @@ a {
 }
 
 body {
-  background-color: whites;
+  @include linear-gradient(red, orange);
+  @include linear-gradient(to top, red, orange);
+  @include linear-gradient(to top, red, orange, $fallback: red);
+  @include linear-gradient(50deg, orange 0%, yellow 50%, yellow 51%, #7db9e8 100%);
 }
