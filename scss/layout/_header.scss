@@ -13,8 +13,18 @@
     position: absolute;
     bottom: 20px;
     left: 200px;
-    color: salmon;
-    text-shadow: 10px 10px red;
+    color: $primary-color;
+    text-shadow: 10px 10px $tertiary-color;
     font-family: 'Fredoka One', cursive;
+    @media screen and (max-width: $medium) {
+      font-size: 100px;
+      bottom: 15px;
+      left: 10px;
+    }
+    @media screen and (max-width: $small) {
+      font-size: 70px;
+      bottom: 10px;
+      left: 0px;
+    }
   }
 }

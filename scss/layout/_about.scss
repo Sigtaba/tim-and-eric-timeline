@@ -9,6 +9,7 @@
 }
 
 .about {
+  color: $black;
   & h2 {
     @include subhead;
   }
@@ -25,7 +26,7 @@
     width: 450px;
     display: block;
     margin: 50px auto;
-    box-shadow: 2px 2px 10px black;
+    box-shadow: 2px 2px 10px $black;
     @media screen and (max-width: $medium) {
       width: 550px;
     }
