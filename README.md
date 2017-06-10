@@ -17,7 +17,7 @@ A website about the comedy duo Tim & Eric.  Includes their bios and a brief time
 
 OR
 
-* _Open this link: https://sigtaba.github.io/tim-and-eric-timeline
+Open this link: https://sigtaba.github.io/tim-and-eric-timeline
 
 ## Support and contact details
 
